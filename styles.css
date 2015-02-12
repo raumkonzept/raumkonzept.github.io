@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+#footer {
+	font-size: 70%;
+}
+
+hr {
+	width: 80%;
+	border-top-style: dotted;
+}
